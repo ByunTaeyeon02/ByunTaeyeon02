@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ByunTaeyeon02
 - 👀 I’m interested in coding :))
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java and Dart
 - 💞️ I’m looking to collaborate on different kinds of project
 - 📫 How to reach me is through Discord: ByunTaeyeon02#4884
 
